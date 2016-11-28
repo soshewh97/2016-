@@ -1,0 +1,102 @@
+2016/11/25 16:30:31
+
+[提示] 第12題 -C -p
+2016/11/25 16:16:34
+
+[提示]第11題 base64_decode(TG9uZ0ROO0luT3JkZXI7Tm9EdXBsaWNhdGVzO05vTmV3bGluZTtIZXgyRmlsZTtDaGVja01ENUAzNjtFeHRyYWN0U3BsaXRaaXBGaWxlcztXYXZlVGhlRmxhZwo=)
+2016/11/25 16:12:32
+
+[提示] 第8題 ASP.NET Web Configuration File
+2016/11/25 16:09:41
+
+[提示] 第1題 恆逸編碼
+2016/11/25 16:07:30
+
+[大會公告]成績排名網頁即將在5分鐘後關閉。
+2016/11/25 16:04:25
+
+[提示] 第7題 Using brute-force attack to get the flag. (key space:2756)
+2016/11/25 15:46:16
+
+[提示] 第12題 .eml
+2016/11/25 15:45:08
+
+[提示] 第11題 Check the Domain Name! XXD
+2016/11/25 15:33:17
+
+[提示] 第8題 ASP.NET Web Project Folder Structure.
+2016/11/25 15:30:03
+
+[提示] 第2題 找出ransomware.exe並dump出來解析，找出加密演算法。
+2016/11/25 15:26:38
+
+[提示] 第5題 上傳提權檔後，請強制轉型(例如 chmod +x ./你的檔案)。
+2016/11/25 15:18:15
+
+[提示] 第1題 steganography x MIME and yEnc's rival
+2016/11/25 15:16:50
+
+[提示] 第7題 Passwords are encoded by URL
+2016/11/25 15:13:03
+
+[提示] 第5題 建立連線後，請進行提權(CVE-2015-1328，overlayfs)。
+2016/11/25 15:04:16
+
+[提示] 第12題 How SNOW works
+2016/11/25 14:59:32
+
+[提示]第11題 Merge and Unzip
+2016/11/25 14:58:35
+
+[提示]第10題 patch the jump
+2016/11/25 14:55:41
+
+[提示]第4題 PNG file to ZIP file.
+2016/11/25 14:38:38
+
+[提示]第2題 De4dot
+2016/11/25 14:36:19
+
+[提示]第7題 Using Hex-Editor to extract files
+2016/11/25 14:34:07
+
+[提示]第5題 kali中 /usr/share/webshells/php/php-reverse-shell.php，有內建PHP Shell了，嘗試修改它。
+2016/11/25 14:15:24
+
+[大會公告]第5題題目主機重新開放。
+2016/11/25 14:12:14
+
+[提示]第1題 亞洲數字超級天團
+2016/11/25 14:11:00
+
+[提示]第11題 Hex2File
+2016/11/25 13:54:53
+
+[提示]第2題 ILSpy
+2016/11/25 13:51:41
+
+[提示]第5題 上傳PHP Shell，用NC建立連線。
+2016/11/25 13:48:57
+
+[提示]第4題 解WEP及FTP協定
+2016/11/25 13:41:01
+
+[提示]第7題 The filenames are encoded by Bin-Hex
+2016/11/25 13:33:00
+
+[提示] 第12題 傑克上網尋找了一些資訊隱藏工具
+2016/11/25 13:13:17
+
+[大會公告]教室外備有午茶餐點，請參賽者自行取用。提醒參賽者，教室內不可飲食。
+2016/11/25 13:10:59
+
+[提示]第1題 scroll the mouse, check the text CAREFULLY.
+2016/11/25 13:04:45
+
+[提示] 第11題 DNS Oddities
+2016/11/25 12:48:47
+
+[大會公告]提醒各位參賽者，競賽題目第11題、第12題附件位於競賽主機桌面。
+2016/11/25 12:12:12
+
+[大會公告]由於競賽題目第6題、第9題未同步開啟試題，故大會決定上述題目答對者皆計分100分。

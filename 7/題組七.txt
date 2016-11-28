@@ -1,0 +1,8 @@
+◎ GAME： 7
+◎ 題目：
+Please find the Flag from the LogoShot System
+
+◎ 提示：
+Running on Debian / Ubuntu system
+
+◎ 附件： logoshot.system.exe
